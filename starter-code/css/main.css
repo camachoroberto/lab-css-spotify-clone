@@ -6,3 +6,19 @@ Green: #00B172
 White: #FFF
 
 */
+
+.container{
+    margin: 0 0;
+    border: 2px solid rgb(0, 26, 255);
+}
+header {
+    border: 2px solid red;
+}
+
+.logo{
+    float: left;
+}
+
+nav{
+    float: right;
+}
